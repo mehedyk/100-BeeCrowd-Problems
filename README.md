@@ -1,4 +1,3 @@
-------------------------------------------BeeCrowd-------------------------
 # Beecrowd Beginner Problems – Top 100
 
 | #   | Problem Name                             | Link                                                       | Solution File                  |
