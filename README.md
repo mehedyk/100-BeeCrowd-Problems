@@ -5,7 +5,7 @@
 | 1   | Extremely Basic                          | https://www.beecrowd.com.br/judge/en/problems/view/1000            | 001_ExtremelyBasic.cpp          |
 | 2   | Area of a Circle                         | https://www.beecrowd.com.br/judge/en/problems/view/1002            | 002_AreaCircle.cpp              |
 | 3   | Average 1                                | https://www.beecrowd.com.br/judge/en/problems/view/1005            | 003_Average1.cpp                |
-| 4   | Distance Between Two Points              | https://www.beecrowd.com.br/judge/en/problems/view/1010            | 004_DistancePoints.cpp          |
+| 4   | Simple Calculate                         | https://www.beecrowd.com.br/judge/en/problems/view/1010            | 004_SimpleCalculate.cpp         |
 | 5   | Positive Numbers                         | https://www.beecrowd.com.br/judge/en/problems/view/1060            | 005_PositiveNumbers.cpp         |
 | 6   | Simple Sort                              | https://www.beecrowd.com.br/judge/en/problems/view/1042            | 006_SimpleSort.cpp              |
 | 7   | Simple Calculate                         | https://www.beecrowd.com.br/judge/en/problems/view/1007            | 007_SimpleCalculate.cpp         |
