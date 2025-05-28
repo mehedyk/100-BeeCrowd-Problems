@@ -8,7 +8,7 @@
 | 4   | Simple Calculate                         | https://www.beecrowd.com.br/judge/en/problems/view/1010            | 004_SimpleCalculate.cpp         |
 | 5   | Positive Numbers                         | https://www.beecrowd.com.br/judge/en/problems/view/1060            | 005_PositiveNumbers.cpp         |
 | 6   | Simple Sort                              | https://www.beecrowd.com.br/judge/en/problems/view/1042            | 006_SimpleSort.cpp              |
-| 7   | Simple Calculate                         | https://www.beecrowd.com.br/judge/en/problems/view/1007            | 007_SimpleCalculate.cpp         |
+| 7   | Simple Calculate II                      | https://www.beecrowd.com.br/judge/en/problems/view/1007            | 007_SimpleCalculateII.cpp       |
 | 8   | Age in Days                              | https://www.beecrowd.com.br/judge/en/problems/view/1020            | 008_AgeInDays.cpp               |
 | 9   | Fuel Spent                               | https://www.beecrowd.com.br/judge/en/problems/view/1017            | 009_FuelSpent.cpp               |
 | 10  | Password                                 | https://www.beecrowd.com.br/judge/en/problems/view/1238            | 010_Password.cpp                |
