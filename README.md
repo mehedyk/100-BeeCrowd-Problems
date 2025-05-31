@@ -11,7 +11,7 @@
 | 7   | Simple Calculate II                      | https://www.beecrowd.com.br/judge/en/problems/view/1007            | 007_SimpleCalculateII.cpp       |
 | 8   | Age in Days                              | https://www.beecrowd.com.br/judge/en/problems/view/1020            | 008_AgeInDays.cpp               |
 | 9   | Fuel Spent                               | https://www.beecrowd.com.br/judge/en/problems/view/1017            | 009_FuelSpent.cpp               |
-| 10  | Password                                 | https://www.beecrowd.com.br/judge/en/problems/view/1238            | 010_Password.cpp                |
+| 10  |Combiner                                  | https://www.beecrowd.com.br/judge/en/problems/view/1238            | 010_Combiner.cpp                |
 | 11  | Sum of Consecutive Odd Numbers I         | https://www.beecrowd.com.br/judge/en/problems/view/1157            | 011_SumConsecOdd.cpp            |
 | 12  | Odd Numbers                              | https://www.beecrowd.com.br/judge/en/problems/view/1070            | 012_OddNumbers.cpp              |
 | 13  | Area of a Sphere                         | https://www.beecrowd.com.br/judge/en/problems/view/1018            | 013_AreaSphere.cpp              |
