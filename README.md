@@ -2,7 +2,7 @@
 
 | #   | Problem Name                             | Link                                                                 | Solution File                  |
 |-----|------------------------------------------|----------------------------------------------------------------------|--------------------------------|
-| 1   | Extremely Basic                          | [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000)     | `001_ExtremelyBasic.cpp`       |
+| 1   |Hello World!                          | [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000)     | `001_HelloWorld.cpp`       |
 | 2   | Area of a Circle                         | [1002](https://www.beecrowd.com.br/judge/en/problems/view/1002)     | `002_AreaCircle.cpp`           |
 | 3   | Average 1                                | [1005](https://www.beecrowd.com.br/judge/en/problems/view/1005)     | `003_Average1.cpp`             |
 | 4   | Simple Calculate                         | [1010](https://www.beecrowd.com.br/judge/en/problems/view/1010)     | `004_SimpleCalculate.cpp`      |
