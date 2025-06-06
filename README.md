@@ -1,8 +1,8 @@
 ## Beecrowd Problems – 100
 
-| \# | Problem Name | Link | Solution File |
+| # | Problem Name | Link | Solution File |
 |---|---|---|---|
-| 1 | Hello World\! | [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) | `001_HelloWorld.cpp` |
+| 1 | Hello World! | [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) | `001_HelloWorld.cpp` |
 | 2 | Area of a Circle | [1002](https://www.beecrowd.com.br/judge/en/problems/view/1002) | `002_AreaCircle.cpp` |
 | 3 | Average 1 | [1005](https://www.beecrowd.com.br/judge/en/problems/view/1005) | `003_Average1.cpp` |
 | 4 | Simple Calculate | [1010](https://www.beecrowd.com.br/judge/en/problems/view/1010) | `004_SimpleCalculate.cpp` |
@@ -90,7 +90,7 @@
 | 86 | Multiples (Checking Divisibility) | [1044](https://www.beecrowd.com.br/judge/en/problems/view/1044) | `086_MultiplesCheck.cpp` |
 | 87 | Simple Sort (Three Numbers) | [1042](https://www.beecrowd.com.br/judge/en/problems/view/1042) | `087_SimpleSortThreeNumbers.cpp` |
 | 88 | Array Replacement I (Zero to One) | [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) | `088_ArrayReplacementZeroToOne.cpp` |
-| 89 | Find the Tobby\! | [2060](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/2060) | `089_FindTobby.cpp` |
+| 89 | Find the Tobby! | [2060](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/2060) | `089_FindTobby.cpp` |
 | 90 | Positives and Average (Six Numbers) | [1064](https://www.beecrowd.com.br/judge/en/problems/view/1064) | `090_PositivesAverageSixNumbers.cpp` |
 | 91 | Perfect Score | [2719](https://www.beecrowd.com.br/judge/en/problems/view/2719) | `091_PerfectScore.cpp` |
 | 92 | Age in Days (Detailed) | [1020](https://www.beecrowd.com.br/judge/en/problems/view/1020) | `092_AgeInDaysDetailed.cpp` |
