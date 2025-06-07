@@ -82,8 +82,8 @@
 | 80 | Digits | 2950 | 080_Digits.cpp |
 | 81 | Counting Characters | 2719 | 081_CountCharacters.cpp |
 | 82 | Time Conversion | 1019 | 082_TimeConversion.cpp |
-| 83 | Banknotes | 1018 | 083_Banknotes.cpp |
-| 84 | Banknotes and Coins | 1021 | 084_BanknotesCoins.cpp |
+| 83 | Primary Arithmetic | 1212 | 083_PrimaryArithmetic.cpp |
+| 84 | Above Average | 1214 | 084_AboveAverage.cpp |
 | 85 | Even, Odd, Positive and Negative | 1066 | 085_EvenOddPositiveNegative.cpp |
 | 86 | Even or Odd | 1074 | 086_EvenOrOdd.cpp |
 | 87 | Remaining 2 | 1075 | 087_Remaining2.cpp |
