@@ -1,4 +1,4 @@
-## Beecrowd Problems
+## Beecrowd Problems – 100
 
 | \# | Problem Name | Link | Solution File |
 |---|---|---|---|
@@ -36,69 +36,69 @@
 | 32 | Game Time | [https://www.beecrowd.com.br/judge/en/problems/view/1046](https://www.beecrowd.com.br/judge/en/problems/view/1046) | `032_GameTime.cpp` |
 | 33 | Game Time with Minutes | [https://www.beecrowd.com.br/judge/en/problems/view/1047](https://www.beecrowd.com.br/judge/en/problems/view/1047) | `033_GameTimeWithMinutes.cpp` |
 | 34 | Animal | [https://www.beecrowd.com.br/judge/en/problems/view/1049](https://www.beecrowd.com.br/judge/en/problems/view/1049) | `034_Animal.cpp` |
-| 35 | Positive Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1060](https://www.beecrowd.com.br/judge/en/problems/view/1060) | `035_PositiveNumbers.cpp` |
-| 36 | Event Time | [https://www.beecrowd.com.br/judge/en/problems/view/1061](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1061) | `036_EventTime.cpp` |
-| 37 | Positives and Average | [https://www.beecrowd.com.br/judge/en/problems/view/1064](https://www.beecrowd.com.br/judge/en/problems/view/1064) | `037_PositivesAndAverage.cpp` |
-| 38 | Even Between Five Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1065](https://www.beecrowd.com.br/judge/en/problems/view/1065) | `038_EvenBetweenFiveNumbers.cpp` |
-| 39 | Even, Odd, Positive and Negative | [https://www.beecrowd.com.br/judge/en/problems/view/1066](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1066) | `039_EvenOddPositiveAndNegative.cpp` |
-| 40 | Odd Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1067](https://www.beecrowd.com.br/judge/en/problems/view/1067) | `040_OddNumbers.cpp` |
-| 41 | Six Odd Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1070](https://www.beecrowd.com.br/judge/en/problems/view/1070) | `041_SixOddNumbers.cpp` |
-| 42 | Sum of Consecutive Odd Numbers I | [https://www.beecrowd.com.br/judge/en/problems/view/1071](https://www.beecrowd.com.br/judge/en/problems/view/1071) | `042_SumOfConsecutiveOddNumbersI.cpp` |
-| 43 | Sum of Consecutive Odd Numbers II | [https://www.beecrowd.com.br/judge/en/problems/view/1072](https://www.beecrowd.com.br/judge/en/problems/view/1072) | `043_SumOfConsecutiveOddNumbersII.cpp` |
-| 44 | Even Squared | [https://www.beecrowd.com.br/judge/en/problems/view/1073](https://www.beecrowd.com.br/judge/en/problems/view/1073) | `044_EvenSquared.cpp` |
-| 45 | Even or Odd | [https://www.beecrowd.com.br/judge/en/problems/view/1074](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1074) | `045_EvenOrOdd.cpp` |
-| 46 | S Sequence | [https://www.beecrowd.com.br/judge/en/problems/view/1155](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1155) | `046_SSequence.cpp` |
-| 47 | Remaining 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1075](https://www.beecrowd.com.br/judge/en/problems/view/1075) | `047_Remaining2.cpp` |
-| 48 | Multiplication Table | [https://www.beecrowd.com.br/judge/en/problems/view/1078](https://www.beecrowd.com.br/judge/en/problems/view/1078) | `048_MultiplicationTable.cpp` |
-| 49 | Weighted Averages | [https://www.beecrowd.com.br/judge/en/problems/view/1079](https://www.beecrowd.com.br/judge/en/problems/view/1079) | `049_WeightedAverages.cpp` |
-| 50 | Experiments | [https://www.beecrowd.com.br/judge/en/problems/view/1094](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1094) | `050_Experiments.cpp` |
-| 51 | Sequence IJ 1 | [https://www.beecrowd.com.br/judge/en/problems/view/1095](https://www.beecrowd.com.br/judge/en/problems/view/1095) | `051_SequenceIJ1.cpp` |
-| 52 | Sequence IJ 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1096](https://www.beecrowd.com.br/judge/en/problems/view/1096) | `052_SequenceIJ2.cpp` |
-| 53 | Sequence IJ 3 | [https://www.beecrowd.com.br/judge/en/problems/view/1097](https://www.beecrowd.com.br/judge/en/problems/view/1097) | `053_SequenceIJ3.cpp` |
-| 54 | Sequence IJ 4 | [https://www.beecrowd.com.br/judge/en/problems/view/1098](https://www.beecrowd.com.br/judge/en/problems/view/1098) | `054_SequenceIJ4.cpp` |
-| 55 | Sequence IJ 5 | [https://www.beecrowd.com.br/judge/en/problems/view/1099](https://www.beecrowd.com.br/judge/en/problems/view/1099) | `055_SequenceIJ5.cpp` |
-| 56 | Sequence of Numbers and Sum | [https://www.beecrowd.com.br/judge/en/problems/view/1101](https://www.beecrowd.com.br/judge/en/problems/view/1101) | `056_SequenceOfNumbersAndSum.cpp` |
-| 57 | Growing Sequences | [https://www.beecrowd.com.br/judge/en/problems/view/1113](https://www.beecrowd.com.br/judge/en/problems/view/1113) | `057_GrowingSequences.cpp` |
-| 58 | Password Check | [https://www.beecrowd.com.br/judge/en/problems/view/1114](https://www.beecrowd.com.br/judge/en/problems/view/1114) | `058_PasswordCheck.cpp` |
-| 59 | Quadrant | [https://www.beecrowd.com.br/judge/en/problems/view/1115](https://www.beecrowd.com.br/judge/en/problems/view/1115) | `059_Quadrant.cpp` |
-| 60 | Dividing X by Y | [https://www.beecrowd.com.br/judge/en/problems/view/1116](https://www.beecrowd.com.br/judge/en/problems/view/1116) | `060_DividingXByY.cpp` |
-| 61 | Score Validation | [https://www.beecrowd.com.br/judge/en/problems/view/1117](https://www.beecrowd.com.br/judge/en/problems/view/1117) | `061_ScoreValidation.cpp` |
-| 62 | Rest of a Division | [https://www.beecrowd.com.br/judge/en/problems/view/1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) | `062_RestOfADivision.cpp` |
-| 63 | Type of Fuel | [https://www.beecrowd.com.br/judge/en/problems/view/1134](https://www.beecrowd.com.br/judge/en/problems/view/1134) | `063_TypeOfFuel.cpp` |
-| 64 | Grenais | [https://www.beecrowd.com.br/judge/en/problems/view/1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) | `064_Grenais.cpp` |
-| 65 | PUM | [https://www.beecrowd.com.br/judge/en/problems/view/1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) | `065_PUM.cpp` |
-| 66 | Squared and Cubic | [https://www.beecrowd.com.br/judge/en/problems/view/1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) | `066_SquaredAndCubic.cpp` |
-| 67 | Logical Sequence | [https://www.beecrowd.com.br/judge/en/problems/view/1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) | `067_LogicalSequence.cpp` |
-| 68 | Logical Sequence 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1145](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1145) | `068_LogicalSequence2.cpp` |
-| 69 | Summing Consecutive Integers | [https://www.beecrowd.com.br/judge/en/problems/view/1149](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1149) | `069_SummingConsecutiveIntegers.cpp` |
-| 70 | Fibonacci Easy | [https://www.beecrowd.com.br/judge/en/problems/view/1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) | `070_FibonacciEasy.cpp` |
-| 71 | Factorial Simple | [https://www.beecrowd.com.br/judge/en/problems/view/1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) | `071_FactorialSimple.cpp` |
-| 72 | Ages | [https://www.beecrowd.com.br/judge/en/problems/view/1154](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1154) | `072_Ages.cpp` |
-| 73 | Divisors I | [https://www.beecrowd.com.br/judge/en/problems/view/1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) | `073_DivisorsI.cpp` |
-| 74 | Sum of Consecutive Odd Numbers III | [https://www.beecrowd.com.br/judge/en/problems/view/1158](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1158) | `074_SumOfConsecutiveOddNumbersIII.cpp` |
-| 75 | Sum of Consecutive Even Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1159](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1159) | `075_SumOfConsecutiveEvenNumbers.cpp` |
-| 76 | Population Increase | [https://www.beecrowd.com.br/judge/en/problems/view/1160](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1160) | `076_PopulationIncrease.cpp` |
-| 77 | Prime Number | [https://www.beecrowd.com.br/judge/en/problems/view/1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) | `077_PrimeNumber.cpp` |
-| 78 | Perfect Number | [https://www.beecrowd.com.br/judge/en/problems/view/1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) | `078_PerfectNumber.cpp` |
-| 79 | Foods Consumption | [https://www.beecrowd.com.br/judge/en/problems/view/1170](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1170) | `079_FoodsConsumption.cpp` |
-| 80 | Array Fill I (Distinct) | [https://www.beecrowd.com.br/judge/en/problems/view/1171](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1171) | `080_ArrayFillIDistinct.cpp` |
-| 81 | Array Replacement I | [https://www.beecrowd.com.br/judge/en/problems/view/1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) | `081_ArrayReplacementI.cpp` |
-| 82 | Array Fill I | [https://www.beecrowd.com.br/judge/en/problems/view/1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) | `082_ArrayFillI.cpp` |
-| 83 | Array Selection I | [https://www.beecrowd.com.br/judge/en/problems/view/1174](https://www.beecrowd.com.br/judge/en/problems/view/1174) | `083_ArraySelectionI.cpp` |
-| 84 | Array Change I | [https://www.beecrowd.com.br/judge/en/problems/view/1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) | `084_ArrayChangeI.cpp` |
-| 85 | Array Fill II | [https://www.beecrowd.com.br/judge/en/problems/view/1177](https://www.beecrowd.com.br/judge/en/problems/view/1177) | `085_ArrayFillII.cpp` |
-| 86 | Array Fill III | [https://www.beecrowd.com.br/judge/en/problems/view/1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) | `086_ArrayFillIII.cpp` |
-| 87 | Array Fill IV | [https://www.beecrowd.com.br/judge/en/problems/view/1179](https://www.beecrowd.com.br/judge/en/problems/view/1179) | `087_ArrayFillIV.cpp` |
-| 88 | Lowest Number and Position | [https://www.beecrowd.com.br/judge/en/problems/view/1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) | `088_LowestNumberAndPosition.cpp` |
-| 89 | Line in Array II | [https://www.beecrowd.com.br/judge/en/problems/view/1181](https://www.beecrowd.com.br/judge/en/problems/view/1181) | `089_LineInArrayII.cpp` |
-| 90 | Sum or Average (Matrix Column) | [https://www.beecrowd.com.br/judge/en/problems/view/1182](https://www.beecrowd.com.br/judge/en/problems/view/1182) | `090_SumOrAverageMatrixColumn.cpp` |
-| 91 | Above the Main Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1183](https://www.beecrowd.com.br/judge/en/problems/view/1183) | `091_AboveTheMainDiagonal.cpp` |
-| 92 | Average of Columns | [https://www.beecrowd.com.br/judge/en/problems/view/1184](https://www.beecrowd.com.br/judge/en/problems/view/1184) | `092_AverageOfColumns.cpp` |
-| 93 | Below the Main Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1185](https://www.beecrowd.com.br/judge/en/problems/view/1185) | `093_BelowTheMainDiagonal.cpp` |
-| 94 | Above Secondary Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1187](https://www.beecrowd.com.br/judge/en/problems/view/1187) | `094_AboveSecondaryDiagonal.cpp` |
-| 95 | Matrix Below Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1188](https://www.beecrowd.com.br/judge/en/problems/view/1188) | `095_MatrixBelowDiagonal.cpp` |
-| 96 | Right Area (Matrix) | [https://www.beecrowd.com.br/judge/en/problems/view/1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) | `096_RightAreaMatrix.cpp` |
-| 97 | O Alien | [https://www.beecrowd.com.br/judge/en/problems/view/1198](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1198) | `097_OAlien.cpp` |
-| 98 | Primary Arithmetic | [https://www.beecrowd.com.br/judge/en/problems/view/1212](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1212) | `098_PrimaryArithmetic.cpp` |
-| 99 | Above Average | [https://www.beecrowd.com.br/judge/en/problems/view/1214](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1214) | `099_AboveAverage.cpp` |
-| 100 | Combiner | [https://www.beecrowd.com.br/judge/en/problems/view/1238](https://www.beecrowd.com.br/judge/en/problems/view/1238) | `100_Combiner.cpp` |
+| 35 | Month | [https://www.beecrowd.com.br/judge/en/problems/view/1052](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1052) | `035_Month.cpp` |
+| 36 | Even Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1059](https://www.beecrowd.com.br/judge/en/problems/view/1059) | `036_EvenNumbers.cpp` |
+| 37 | Positive Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1060](https://www.beecrowd.com.br/judge/en/problems/view/1060) | `037_PositiveNumbers.cpp` |
+| 38 | Event Time | [https://www.beecrowd.com.br/judge/en/problems/view/1061](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1061) | `038_EventTime.cpp` |
+| 39 | Positives and Average | [https://www.beecrowd.com.br/judge/en/problems/view/1064](https://www.beecrowd.com.br/judge/en/problems/view/1064) | `039_PositivesAndAverage.cpp` |
+| 40 | Even Between Five Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1065](https://www.beecrowd.com.br/judge/en/problems/view/1065) | `040_EvenBetweenFiveNumbers.cpp` |
+| 41 | Even, Odd, Positive and Negative | [https://www.beecrowd.com.br/judge/en/problems/view/1066](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1066) | `041_EvenOddPositiveAndNegative.cpp` |
+| 42 | Odd Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1067](https://www.beecrowd.com.br/judge/en/problems/view/1067) | `042_OddNumbers.cpp` |
+| 43 | Six Odd Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1070](https://www.beecrowd.com.br/judge/en/problems/view/1070) | `043_SixOddNumbers.cpp` |
+| 44 | Sum of Consecutive Odd Numbers I | [https://www.beecrowd.com.br/judge/en/problems/view/1071](https://www.beecrowd.com.br/judge/en/problems/view/1071) | `044_SumOfConsecutiveOddNumbersI.cpp` |
+| 45 | Sum of Consecutive Odd Numbers II | [https://www.beecrowd.com.br/judge/en/problems/view/1072](https://www.beecrowd.com.br/judge/en/problems/view/1072) | `045_SumOfConsecutiveOddNumbersII.cpp` |
+| 46 | Even Squared | [https://www.beecrowd.com.br/judge/en/problems/view/1073](https://www.beecrowd.com.br/judge/en/problems/view/1073) | `046_EvenSquared.cpp` |
+| 47 | Even or Odd | [https://www.beecrowd.com.br/judge/en/problems/view/1074](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1074) | `047_EvenOrOdd.cpp` |
+| 48 | Remaining 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1075](https://www.beecrowd.com.br/judge/en/problems/view/1075) | `048_Remaining2.cpp` |
+| 49 | Multiplication Table | [https://www.beecrowd.com.br/judge/en/problems/view/1078](https://www.beecrowd.com.br/judge/en/problems/view/1078) | `049_MultiplicationTable.cpp` |
+| 50 | Weighted Averages | [https://www.beecrowd.com.br/judge/en/problems/view/1079](https://www.beecrowd.com.br/judge/en/problems/view/1079) | `050_WeightedAverages.cpp` |
+| 51 | Experiments | [https://www.beecrowd.com.br/judge/en/problems/view/1094](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1094) | `051_Experiments.cpp` |
+| 52 | Sequence IJ 1 | [https://www.beecrowd.com.br/judge/en/problems/view/1095](https://www.beecrowd.com.br/judge/en/problems/view/1095) | `052_SequenceIJ1.cpp` |
+| 53 | Sequence IJ 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1096](https://www.beecrowd.com.br/judge/en/problems/view/1096) | `053_SequenceIJ2.cpp` |
+| 54 | Sequence IJ 3 | [https://www.beecrowd.com.br/judge/en/problems/view/1097](https://www.beecrowd.com.br/judge/en/problems/view/1097) | `054_SequenceIJ3.cpp` |
+| 55 | Sequence IJ 4 | [https://www.beecrowd.com.br/judge/en/problems/view/1098](https://www.beecrowd.com.br/judge/en/problems/view/1098) | `055_SequenceIJ4.cpp` |
+| 56 | Sequence IJ 5 | [https://www.beecrowd.com.br/judge/en/problems/view/1099](https://www.beecrowd.com.br/judge/en/problems/view/1099) | `056_SequenceIJ5.cpp` |
+| 57 | Sequence of Numbers and Sum | [https://www.beecrowd.com.br/judge/en/problems/view/1101](https://www.beecrowd.com.br/judge/en/problems/view/1101) | `057_SequenceOfNumbersAndSum.cpp` |
+| 58 | Growing Sequences | [https://www.beecrowd.com.br/judge/en/problems/view/1113](https://www.beecrowd.com.br/judge/en/problems/view/1113) | `058_GrowingSequences.cpp` |
+| 59 | Password Check | [https://www.beecrowd.com.br/judge/en/problems/view/1114](https://www.beecrowd.com.br/judge/en/problems/view/1114) | `059_PasswordCheck.cpp` |
+| 60 | Quadrant | [https://www.beecrowd.com.br/judge/en/problems/view/1115](https://www.beecrowd.com.br/judge/en/problems/view/1115) | `060_Quadrant.cpp` |
+| 61 | Dividing X by Y | [https://www.beecrowd.com.br/judge/en/problems/view/1116](https://www.beecrowd.com.br/judge/en/problems/view/1116) | `061_DividingXByY.cpp` |
+| 62 | Score Validation | [https://www.beecrowd.com.br/judge/en/problems/view/1117](https://www.beecrowd.com.br/judge/en/problems/view/1117) | `062_ScoreValidation.cpp` |
+| 63 | Grenais | [https://www.beecrowd.com.br/judge/en/problems/view/1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) | `063_Grenais.cpp` |
+| 64 | Rest of a Division | [https://www.beecrowd.com.br/judge/en/problems/view/1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) | `064_RestOfADivision.cpp` |
+| 65 | Type of Fuel | [https://www.beecrowd.com.br/judge/en/problems/view/1134](https://www.beecrowd.com.br/judge/en/problems/view/1134) | `065_TypeOfFuel.cpp` |
+| 66 | PUM | [https://www.beecrowd.com.br/judge/en/problems/view/1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) | `066_PUM.cpp` |
+| 67 | Squared and Cubic | [https://www.beecrowd.com.br/judge/en/problems/view/1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) | `067_SquaredAndCubic.cpp` |
+| 68 | Logical Sequence | [https://www.beecrowd.com.br/judge/en/problems/view/1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) | `068_LogicalSequence.cpp` |
+| 69 | Logical Sequence 2 | [https://www.beecrowd.com.br/judge/en/problems/view/1145](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1145) | `069_LogicalSequence2.cpp` |
+| 70 | Summing Consecutive Integers | [https://www.beecrowd.com.br/judge/en/problems/view/1149](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1149) | `070_SummingConsecutiveIntegers.cpp` |
+| 71 | Fibonacci Easy | [https://www.beecrowd.com.br/judge/en/problems/view/1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) | `071_FibonacciEasy.cpp` |
+| 72 | Factorial Simple | [https://www.beecrowd.com.br/judge/en/problems/view/1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) | `072_FactorialSimple.cpp` |
+| 73 | Ages | [https://www.beecrowd.com.br/judge/en/problems/view/1154](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1154) | `073_Ages.cpp` |
+| 74 | S Sequence | [https://www.beecrowd.com.br/judge/en/problems/view/1155](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1155) | `074_SSequence.cpp` |
+| 75 | Divisors I | [https://www.beecrowd.com.br/judge/en/problems/view/1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) | `075_DivisorsI.cpp` |
+| 76 | Sum of Consecutive Odd Numbers III | [https://www.beecrowd.com.br/judge/en/problems/view/1158](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1158) | `076_SumOfConsecutiveOddNumbersIII.cpp` |
+| 77 | Sum of Consecutive Even Numbers | [https://www.beecrowd.com.br/judge/en/problems/view/1159](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1159) | `077_SumOfConsecutiveEvenNumbers.cpp` |
+| 78 | Population Increase | [https://www.beecrowd.com.br/judge/en/problems/view/1160](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1160) | `078_PopulationIncrease.cpp` |
+| 79 | Perfect Number | [https://www.beecrowd.com.br/judge/en/problems/view/1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) | `079_PerfectNumber.cpp` |
+| 80 | Prime Number | [https://www.beecrowd.com.br/judge/en/problems/view/1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) | `080_PrimeNumber.cpp` |
+| 81 | Foods Consumption | [https://www.beecrowd.com.br/judge/en/problems/view/1170](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1170) | `081_FoodsConsumption.cpp` |
+| 82 | Array Fill I (Distinct) | [https://www.beecrowd.com.br/judge/en/problems/view/1171](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1171) | `082_ArrayFillIDistinct.cpp` |
+| 83 | Array Replacement I | [https://www.beecrowd.com.br/judge/en/problems/view/1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) | `083_ArrayReplacementI.cpp` |
+| 84 | Array Fill I | [https://www.beecrowd.com.br/judge/en/problems/view/1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) | `084_ArrayFillI.cpp` |
+| 85 | Array Selection I | [https://www.beecrowd.com.br/judge/en/problems/view/1174](https://www.beecrowd.com.br/judge/en/problems/view/1174) | `085_ArraySelectionI.cpp` |
+| 86 | Array Change I | [https://www.beecrowd.com.br/judge/en/problems/view/1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) | `086_ArrayChangeI.cpp` |
+| 87 | Array Fill II | [https://www.beecrowd.com.br/judge/en/problems/view/1177](https://www.beecrowd.com.br/judge/en/problems/view/1177) | `087_ArrayFillII.cpp` |
+| 88 | Array Fill III | [https://www.beecrowd.com.br/judge/en/problems/view/1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) | `088_ArrayFillIII.cpp` |
+| 89 | Array Fill IV | [https://www.beecrowd.com.br/judge/en/problems/view/1179](https://www.beecrowd.com.br/judge/en/problems/view/1179) | `089_ArrayFillIV.cpp` |
+| 90 | Lowest Number and Position | [https://www.beecrowd.com.br/judge/en/problems/view/1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) | `090_LowestNumberAndPosition.cpp` |
+| 91 | Line in Array II | [https://www.beecrowd.com.br/judge/en/problems/view/1181](https://www.beecrowd.com.br/judge/en/problems/view/1181) | `091_LineInArrayII.cpp` |
+| 92 | Sum or Average (Matrix Column) | [https://www.beecrowd.com.br/judge/en/problems/view/1182](https://www.beecrowd.com.br/judge/en/problems/view/1182) | `092_SumOrAverageMatrixColumn.cpp` |
+| 93 | Above the Main Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1183](https://www.beecrowd.com.br/judge/en/problems/view/1183) | `093_AboveTheMainDiagonal.cpp` |
+| 94 | Average of Columns | [https://www.beecrowd.com.br/judge/en/problems/view/1184](https://www.beecrowd.com.br/judge/en/problems/view/1184) | `094_AverageOfColumns.cpp` |
+| 95 | Below the Main Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1185](https://www.beecrowd.com.br/judge/en/problems/view/1185) | `095_BelowTheMainDiagonal.cpp` |
+| 96 | Above Secondary Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1187](https://www.beecrowd.com.br/judge/en/problems/view/1187) | `096_AboveSecondaryDiagonal.cpp` |
+| 97 | Matrix Below Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1188](https://www.beecrowd.com.br/judge/en/problems/view/1188) | `097_MatrixBelowDiagonal.cpp` |
+| 98 | Right Area (Matrix) | [https://www.beecrowd.com.br/judge/en/problems/view/1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) | `098_RightAreaMatrix.cpp` |
+| 99 | O Alien | [https://www.beecrowd.com.br/judge/en/problems/view/1198](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1198) | `099_OAlien.cpp` |
+| 100 | Primary Arithmetic | [https://www.beecrowd.com.br/judge/en/problems/view/1212](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1212) | `100_PrimaryArithmetic.cpp` |
