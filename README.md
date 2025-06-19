@@ -101,4 +101,5 @@
 | 97 | Matrix Below Diagonal | [https://www.beecrowd.com.br/judge/en/problems/view/1188](https://www.beecrowd.com.br/judge/en/problems/view/1188) | `097_MatrixBelowDiagonal.cpp` |
 | 98 | Right Area (Matrix) | [https://www.beecrowd.com.br/judge/en/problems/view/1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) | `098_RightAreaMatrix.cpp` |
 | 99 | O Alien | [https://www.beecrowd.com.br/judge/en/problems/view/1198](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1198) | `099_OAlien.cpp` |
-| 100 | Primary Arithmetic | [https://www.beecrowd.com.br/judge/en/problems/view/1212](https://www.google.com/search?q=https://www.beecrowd.com.br/judge/en/problems/view/1212) | `100_PrimaryArithmetic.cpp` |
+| 100 | Primary Arithmetic | [https://www.beecrowd.com.br/judge/en/problems/view/1212](https://www.beecrowd.com.br/judge/en/problems/view/1212) | `100_PrimaryArithmetic.cpp` |
+| 101 | Combiner | [https://judge.beecrowd.com/en/problems/view/1238](https://judge.beecrowd.com/en/problems/view/1238) | `101_Combiner.cpp` |
