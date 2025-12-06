@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int a,b,result=0;
     cin>>a>>b;
-    if(a>!12 && b<a) {
+    if(b<a) {
         a=24-a;
         result=a+b;
         cout<<"O JOGO DUROU "<<result<<" HORA(S)"<<endl;
