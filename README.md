@@ -102,4 +102,4 @@
 | 98 | Right Area (Matrix) | [https://judge.beecrowd.com/en/problems/view/1190](https://judge.beecrowd.com/en/problems/view/1190) | `098_RightAreaMatrix.cpp` |
 | 99 | O Alien | [https://judge.beecrowd.com/en/problems/view/1198](https://judge.beecrowd.com/en/problems/view/1198) | `099_OAlien.cpp` |
 | 100 | Primary Arithmetic | [https://judge.beecrowd.com/en/problems/view/1212](https://judge.beecrowd.com/en/problems/view/1212) | `100_PrimaryArithmetic.cpp` |
-| 101 | Combinerr | [https://judge.beecrowd.com/en/problems/view/1238](https://judge.beecrowd.com/en/problems/view/1238) | `101_Combiner.cpp` |
+| 101 | Combiner | [https://judge.beecrowd.com/en/problems/view/1238](https://judge.beecrowd.com/en/problems/view/1238) | `101_Combiner.cpp` |
